@@ -3,6 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
+.logo{
+    display: flex;
+    align-items: center;
+}
 .all {
     background-color: rgb(164, 211, 242);
     height: 90vh;
